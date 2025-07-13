@@ -5,5 +5,5 @@ while (true) {
     file_get_contents("https://hrbymybotsh.duckdns.org/mybots/cron.php");
 
     // انتظر 60 ثانية قبل تكرار التشغيل
-    sleep(20);
+    sleep(5);
 }
